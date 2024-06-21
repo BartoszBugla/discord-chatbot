@@ -1,0 +1,1 @@
+sudo ~/miniforge3/bin/python bot.py
