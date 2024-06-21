@@ -1,4 +1,3 @@
 discord
-langchain
 langchain_community
 python-dotenv
